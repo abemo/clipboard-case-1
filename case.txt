@@ -1,0 +1,29 @@
+Problems we tackle: shift offers.
+
+Hey there! Thanks for the interest in joining Clipboard Health! We’re a group of scrappy 
+problem solvers who are faced with ambiguous challenges every day. We expect team members 
+to follow their curiosity, relish discomfort and think from first principles. We know we 
+take a different approach to recruiting; you can read more about how we think about it here.
+
+The upshot is, if you enjoy this case then it’s a good sign that you’ll like working with us. 
+
+the case:
+
+Pretend like you’ve made it onto the CBH Product team and you’re looking for signal in our 
+marketplace. Below you’ll find a link to a google drive with data from transactions on our 
+marketplace. Along with the data, we’ve provided a glossary that defines the data for you.  
+
+We’d like you to analyze the data however you’re comfortable, but we’d push you to try and 
+share something you find truly interesting in the data. Present your findings to us in the 
+form of a written brief. Nothing is off the table here, we’re eager to see what questions 
+you come up with and how you seek to answer them.
+
+Clipboard health is a two sided marketplace with strong network effects where workers transact 
+with workplaces to book per diem shifts in the future. Workplaces post shifts and workers choose 
+which shifts they’d like to work by booking them. 
+
+The data and glossary are linked here
+(https://drive.google.com/drive/folders/1l8od3ddb_ALXnSSGvwZRNHlfSnbLtdAT?usp=drive_link). 
+Download a copy of the data as a csv to manipulate it how you’d like. Do not request edit access 
+to the data repository or appendix.
+
